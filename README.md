@@ -24,3 +24,5 @@
 ```
 git clone https://github.com/Biktop-NIP/FinalProject.git
 ```
+
+точка входа main.py
